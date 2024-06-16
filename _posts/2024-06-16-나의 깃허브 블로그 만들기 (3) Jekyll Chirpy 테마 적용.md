@@ -44,6 +44,3 @@ git commit -m "Jekyll Chirpy 테마 적용"
 ```console
 git push
 ```
-
-![Chirpy 테마](/assets/posts/2023-10-17/스크린샷 2023-10-14 090455.png)
-_배포 완료_
