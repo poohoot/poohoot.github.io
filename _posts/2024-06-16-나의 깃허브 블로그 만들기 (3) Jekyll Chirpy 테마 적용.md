@@ -1,8 +1,8 @@
 ---
 title: 나의 깃허브 블로그 만들기 (3) Jekyll Chirpy 테마 적용
 date: 2024-06-16 21:30:00 +09:00
-categories: [github]
-tags: [github, blog, windows11, jekyll, chirpy, theme]
+categories: [GITHUB]
+tags: [GITHUB, BLOG, WINDOWS11, JEKYLL, BUNDLER, CHIRPY, THEME]
 ---
 
 ## 1.Chirpy 테마 다운로드
